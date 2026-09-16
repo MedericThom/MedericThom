@@ -39,7 +39,7 @@ Full-stack web application for managing chess tournaments — player registratio
 
 **Stack:** ASP.NET Core Web API (C#) · Angular · SQL Server
 
-[`View Repository`](https://github.com/MedericThom/chess-tournament)
+[`View Repository`](https://github.com/MedericThom/Application_ASP.NET_API-Angular_GestionTournoisEchecs)
 
 ---
 
