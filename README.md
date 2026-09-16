@@ -19,17 +19,12 @@ Full Stack Developer specializing in .NET and Angular. Background in hospitality
 
 ## Tech Stack
 
-**Backend**
-`C#` `ASP.NET Core` `Web API` `ADO.NET` `LINQ` `Dapper`
-
-**Frontend**
-`Angular` `TypeScript` `JavaScript` `HTML5` `CSS3`
-
-**Database**
-`SQL Server` `T-SQL`
-
-**Tools**
-`Git` `Azure` `Visual Studio`
+| Category | Technologies |
+|---|---|
+| **Backend** | `C#` `ASP.NET Core` `Web API` `ADO.NET` `LINQ` `Dapper` |
+| **Frontend** | `Angular` `TypeScript` `JavaScript` `HTML5` `CSS3` |
+| **Database** | `SQL Server` `T-SQL` |
+| **Tools** | `Git` `Azure` `Visual Studio` |
 
 ## Featured Project
 
