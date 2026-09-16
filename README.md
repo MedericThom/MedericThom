@@ -15,7 +15,7 @@
 
 ## About
 
-Full Stack Developer specializing in .NET and Angular. Background in hospitality management (10 years), transitioned into software development through an intensive qualifying program at Technofutur TIC.
+Full Stack Developer specializing in .NET and Angular. Background in hospitality management (10 years), transitioned into software development after completing the Full Stack .NET Developer qualifying program at Technofutur TIC.
 
 ## Tech Stack
 
