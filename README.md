@@ -45,6 +45,6 @@ Full-stack web application for managing chess tournaments — player registratio
 
 <div align="center">
 
-*AI as a tool, my passion as the drive, together we go further.*
+*AI as a tool, my passion as the drive - together we go further.*
 
 </div>
