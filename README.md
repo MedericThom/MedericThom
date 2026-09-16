@@ -2,7 +2,7 @@
 
 # Médéric Thomas
 
-**Full Stack Developer** — C# · .NET · Angular
+**Full Stack Developer** - C# · .NET · Angular
 
 *You don't become a developer by chance. I already was, in mind, before I was in code.*
 
