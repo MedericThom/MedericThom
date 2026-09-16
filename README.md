@@ -28,11 +28,11 @@ Full Stack Developer specializing in .NET and Angular. Background in hospitality
 
 ## Featured Projects
 
-### Alluro - Sports Coaching Platform
+### Alluro — Sports Coaching Platform
 
 Trilingual web application connecting coaches, athletes and nutritionists. Features training plan management, GPS/heart rate data import from Garmin devices, and real-time coach-athlete collaboration.
 
-**Stack:** ASP.NET Core Web API (C#) · Angular · SQL Server
+**Stack:** ASP.NET Core Web API (C#) · Angular · SQL Server · Azure
 
 *Currently in active development*
 
