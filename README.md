@@ -35,7 +35,7 @@ Full Stack Developer specializing in .NET and Angular. Background in hospitality
 
 ### Chess Tournament Management System
 
-Full-stack web application for managing chess tournaments — player registration, automated Round Robin pairing, match scheduling.
+Full-stack web application for managing chess tournaments - player registration, automated Round Robin pairing, match scheduling.
 
 **Stack:** ASP.NET Core Web API (C#) · Angular · SQL Server
 
